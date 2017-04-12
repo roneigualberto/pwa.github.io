@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+#v14
+
+CACHE:
+css/style.css
+js/main.js
+https://code.jquery.com/jquery-3.2.1.js
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css
+
+NETWORK:
+*
